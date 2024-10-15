@@ -1,0 +1,1 @@
+{"1": {"ID": 1, "Name": "Hammer", "Category": "Hand Tool", "Quantity": 10, "Rental Price": 5.0}, "2": {"ID": 2, "Name": "Drill", "Category": "Power Tool", "Quantity": 5, "Rental Price": 15.0, "expiration_date": "2025-01-01"}}
