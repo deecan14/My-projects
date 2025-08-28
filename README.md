@@ -1,6 +1,11 @@
 # 👋 Hi, I’m Nnamdi Hill
 
-I am a highly motivated Computer Science student at **Penn State University** with hands-on experience in **software development, data analysis, and research**. I bring a strong foundation in programming, problem-solving, and collaboration, along with a passion for using technology to drive innovation.
+I am a highly motivated **Computer Science student at Penn State University** with experience in **software development, data analysis, and cybersecurity infrastructure**. My background includes working on research teams analyzing pulsar data for gravitational wave detection, as well as engineering secure database systems and real-time threat detection pipelines at a stealth cybersecurity startup.
+
+With a strong foundation in **Python, C++, SQL, and system design**, I am passionate about applying my skills to **cybersecurity challenges**, particularly in areas like **threat monitoring, secure backend development, and incident response**. I thrive in collaborative environments, enjoy solving complex problems, and continuously seek opportunities to learn and grow as both a developer and security engineer.
+
+I am excited to contribute to projects that combine **computer science and cybersecurity** to deliver innovative solutions, protect digital assets, and strengthen system resilience.
+
 
 ## 🔭 Experience
 
@@ -31,8 +36,10 @@ I am a highly motivated Computer Science student at **Penn State University** wi
 
 ## 🌱 Currently Learning
 
-* Improving proficiency in **C++** while advancing in my CS coursework (**CMPSC 132: Prog & Comp 2**)
-* Building my **personal portfolio**, a **Reddit bot**, and expanding my **GitHub repositories**
+* Expanding knowledge in **cybersecurity fundamentals**, including **network security, access control, and secure database design**
+* Developing personal projects focused on **threat detection**, **SQL injection prevention**, and **log analysis**
+* Exploring tools like **Wireshark, Nmap, and Splunk** to strengthen security monitoring and incident response skills
+* Building a **portfolio of cybersecurity projects** (including a custom security-focused Reddit bot and secure backend integrations)
 
 
 ## 💞️ Looking to Collaborate On
